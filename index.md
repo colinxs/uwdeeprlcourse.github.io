@@ -32,7 +32,6 @@ The course assumes a strong footing in the following, comparable to taking a gra
 - Linear algebra (refresher: [notes](http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf) by Zico Kolter and Chuong Do)
 - Machine learning (see [CSE446](https://courses.cs.washington.edu/courses/cse446/18wi/) or [CSE546](https://courses.cs.washington.edu/courses/cse546/17au/))
 - Proficiency in python (quick [tutorial](https://www.learnpython.org/))
-
 In addition, homeworks and project report should be typeset in LaTeX (quick [tutorial](https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes))
 
 ## Homeworks and Grading
