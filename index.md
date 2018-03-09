@@ -54,8 +54,9 @@ We will have 2 (or 3) assignments and a course project. The purpose of the homew
 
 TBD
 
-## Acknowledgement
+## Acknowledgements
 
 - We thank Profs. [Emanuel Todorov](http://homes.cs.washington.edu/~todorov/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/) for providing feedback and overseeing the course.
 - We thank all the robotics faculty at UW for providing excellent feedback and supporting the course.
-- The course homepage is based on the design of [DLSys](http://dlsys.cs.washington.edu/) at UW. We thank the course staff of DLSys.
+- We thank [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) and his students for sharing the course material used at Berkeley.
+- The course homepage is based on the design of [DLSys](http://dlsys.cs.washington.edu/) course at UW. We thank the course staff of DLSys.
