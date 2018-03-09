@@ -38,8 +38,8 @@ In addition, homeworks and project report should be typeset in LaTeX (quick [tut
 
 We will have 2 (or 3) assignments and a course project. The purpose of the homework is primarily to get you started with the resources to study various RL questions and algorithms, and hence are expected to: (a) be fairly light; (b) open-ended to some extent. The course project must be construed as the principal outcome of this course.
 
-- Homeworks: 20%
-- Project: 70%
+- Homeworks: 30%
+- Project: 60%
 - Discussions and participation: 10%
 
 ## Related Courses
