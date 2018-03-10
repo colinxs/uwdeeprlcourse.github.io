@@ -1,6 +1,8 @@
 ---
 layout: index
-title: "CSE 599G1"
+title: "Home"
+order: 100
+group: navigation
 description: "Deep Reinforcement Learning"
 ---
 {% include JB/setup %}
