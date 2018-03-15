@@ -22,7 +22,7 @@ RL deals with the problem of how to make broadly competent decisions in a wide r
 ## Logistics
 
 - Time: Monday + Wednesday 2:00pm to 3:20pm
-- Venue: TBD
+- Venue: [THO 134](http://www.washington.edu/maps/#!/tho)
 - Slack: [https://uwcse599g1.slack.com](https://uwcse599g1.slack.com)
 
 ## Prerequisites
