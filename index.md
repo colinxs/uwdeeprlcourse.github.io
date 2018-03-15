@@ -23,7 +23,7 @@ RL deals with the problem of how to make broadly competent decisions in a wide r
 
 - Time: Monday + Wednesday 2:00pm to 3:20pm
 - Venue: TBD
-- Slack: TBD
+- Slack: https://uwcse599g1.slack.com
 
 ## Prerequisites
 
