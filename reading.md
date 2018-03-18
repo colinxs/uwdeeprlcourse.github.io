@@ -14,6 +14,7 @@ description: ""
 - [Intelligent Control course at UW, Spring 2015](https://homes.cs.washington.edu/~todorov/courses/amath579/index.html)
 - [RL course at Stanford, Winter 2017](http://web.stanford.edu/class/cs234/index.html)
 - [RL course at IIT Madras, Fall 2016](http://nptel.ac.in/courses/106106143/)
+- [RL course at UCL, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 ## Readings
 - [Kober, Bagnell, Peters, Reinforcement learning in robotics: a survey, 2013](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2134&context=robotics)
