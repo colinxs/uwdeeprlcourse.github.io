@@ -10,7 +10,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :  "CSE 599G: Deep Reinforcement Learning"
+title :  "CSE 599G1: Deep Reinforcement Learning"
 tagline:
 author :
   name : cse599g
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : uwdeeprlcourse.github.io
+production_url : courses.cs.washington.edu/courses/cse599g1/18sp/
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
