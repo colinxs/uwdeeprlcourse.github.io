@@ -8,7 +8,7 @@ description: ""
 {% include JB/setup %}
 
 ## Papers and Books
-1. [Sutton, Barto, Reinforcement Learning an Introduction.](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (clasic textbook)
+1. [Sutton, Barto, Reinforcement Learning an Introduction.](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (classic textbook)
 2. [White, Real applications of markov decision processes](http://www.it.uu.se/edu/course/homepage/aism/st11/MDPApplications1.pdf)
 3. [Kober, Bagnell, Peters, Reinforcement learning in robotics: a survey, 2013](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2134&context=robotics)
 4. [Bagnell, An invitation to imitation, 2015](https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf)
