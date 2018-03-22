@@ -16,8 +16,8 @@ RL deals with the problem of how to make broadly competent decisions in a wide r
 
 ## Instructors
 
-- [Aravind Rajeswaran](http://aravindr93.github.io/), Office Hours: 11-12 Fridays CSE 409
-- [Kendall Lowrey](https://scholar.google.com/citations?user=ejsX7D0AAAAJ&hl=en&oi=ao), Office Hours: 11-12 Thursdays CSE 409
+- [Aravind Rajeswaran](http://aravindr93.github.io/), Office Hours: 11-12 Fridays CSE 220
+- [Kendall Lowrey](https://scholar.google.com/citations?user=ejsX7D0AAAAJ&hl=en&oi=ao), Office Hours: 10-11 Thursdays CSE 220
 
 ## Logistics
 

@@ -9,9 +9,9 @@ description: ""
 
 The schedule is tentative and subject to change. We will have guest lectures and may accomodate the schedule accordingly.
 
-| Date                        |                                                       |
-|-----------------------------| ------------------------------------------------------|
-| Mar 26                      |   Course overview and Introduction to DeepRL. |
+| Date                        |   Topic                                               | Files and Reading                |
+|-----------------------------| ------------------------------------------------------| -------------------------------- |
+| Mar 26                      |   Course overview. | [Slides](files/lecture1.pdf), Book Ch. 1 |
 | Mar 28                      |   Intro to Markov Decision Processes. |
 | Apr 2                  	  |   Planning with a known model in the tabular case. |
 | Apr 4                  	  |   DFO and Intro to Policy gradient methods. |
