@@ -11,8 +11,8 @@ The schedule is tentative and subject to change. We will have guest lectures and
 
 | Date                        |   Topic                                               | Files and Reading                |
 |-----------------------------| ------------------------------------------------------| -------------------------------- |
-| Mar 26                      |   Course overview. | [Slides](files/lecture1.pdf), Book Ch. 1 |
-| Mar 28                      |   Intro to Markov Decision Processes. |
+| Mar 26                      |   Course overview. | [Slides](files/lecture1_intro.pdf), Book Ch. 1 |
+| Mar 28                      |   Intro to Markov Decision Processes. | [Slides](files/lecture2_mdp.pdf), Book Ch. 2,3 |
 | Apr 2                  	  |   Planning with a known model in the tabular case. |
 | Apr 4                  	  |   DFO and Intro to Policy gradient methods. |
 | Apr 9                       |   Policy gradient methods (continued). |
