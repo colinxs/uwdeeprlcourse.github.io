@@ -14,7 +14,7 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | Mar 26                      |   Course overview. | [Slides](files/lecture1_intro.pdf), Book Ch. 1 |
 | Mar 28                      |   Intro to Markov Decision Processes. | [Slides](files/lecture2_mdp.pdf), Book Ch. 2,3 |
 | Apr 2                  	  |   Planning with a known model in the tabular case. | [Slides](files/lecture3_policyiter.pdf), Book Ch. 4 |
-| Apr 4                  	  |   Value iteration (contd) and DFO and MuJoCo setup. |
+| Apr 4                  	  |   Policy Iteration (contd) and MuJoCo setup. | [Slides](files/lecture4_policyiter.pdf) |
 | Apr 9                       |   Policy gradient methods. |
 | Apr 11                      |   Policy gradient methods (advanced). |
 | Apr 16                      |   Off-policy RL and intro to DQN. |
