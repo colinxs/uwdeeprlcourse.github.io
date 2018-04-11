@@ -22,6 +22,7 @@ description: ""
 7. [Rajeswaran et al. Towards generalization and simplicity in continuous control, 2017](https://arxiv.org/abs/1703.02660)
 8. [Schulman et al. Proximal Policy Optimization Algorithms, 2017](https://arxiv.org/abs/1707.06347)
 9. [Mnih et al. Asynchronous Methods for Deep Reinforcement Learning, 2016](https://arxiv.org/abs/1602.01783)
+10. [Toussaint, Gradient descent lecture notes, 2012](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf)
 
 ## Related Courses
 1. [DeepRL course at UC Berkeley, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
