@@ -15,14 +15,14 @@ description: ""
 ### Policy gradient
 1. [Williams, Simple statistical gradient-following algorithms for connectionist reinforcement learning, 1992](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
 2. [Sutton et al. Policy gradient methods for reinforcement learning with function approximation, 2000](http://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
-3. [Kakade, A natural policy gradient, 2001](http://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)
+3. [Kakade, A natural policy gradient, 2001](http://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf)**
 4. [Kakade, Langford, Approximately optimal approximate reinforcement learning, 2002](https://pdfs.semanticscholar.org/d2cb/af44e6f508717890402a55d210a880d16a66.pdf)
-5. [Schulman et al. Trust region policy optimization, 2015](http://proceedings.mlr.press/v37/schulman15.pdf)
+5. [Schulman et al. Trust region policy optimization, 2015](http://proceedings.mlr.press/v37/schulman15.pdf)**
 6. [Schulman et al. High-dimensional continuous control using generalized advantage estimation, 2016](https://arxiv.org/abs/1506.02438)
-7. [Rajeswaran et al. Towards generalization and simplicity in continuous control, 2017](https://arxiv.org/abs/1703.02660)
+7. [Rajeswaran et al. Towards generalization and simplicity in continuous control, 2017](https://arxiv.org/abs/1703.02660)**
 8. [Schulman et al. Proximal Policy Optimization Algorithms, 2017](https://arxiv.org/abs/1707.06347)
 9. [Mnih et al. Asynchronous Methods for Deep Reinforcement Learning, 2016](https://arxiv.org/abs/1602.01783)
-10. [Toussaint, Gradient descent lecture notes, 2012](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf)
+10. [Toussaint, Gradient descent lecture notes, 2012](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf)**
 
 ## Related Courses
 1. [DeepRL course at UC Berkeley, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
