@@ -11,23 +11,23 @@ The schedule is tentative and subject to change. We will have guest lectures and
 
 | Date                        |   Topic                                               | Files and Reading                |
 |-----------------------------| ------------------------------------------------------| -------------------------------- |
-| Mar 26                      |   Course overview. | [Slides](files/lecture1_intro.pdf), Book Ch. 1 |
-| Mar 28                      |   Intro to Markov Decision Processes. | [Slides](files/lecture2_mdp.pdf), Book Ch. 2,3 |
-| Apr 2                  	  |   Planning with a known model in the tabular case. | [Slides](files/lecture3_policyiter.pdf), Book Ch. 4 |
-| Apr 4                  	  |   Policy Iteration (contd) and MuJoCo setup. | [Slides](files/lecture4_policyiter.pdf), Book Ch. 4 |
-| Apr 9                       |   Policy gradient methods. | [Slides](files/lecture5_reinforce.pdf), policy gradient |
-| Apr 11                      |   Policy gradient methods (advanced). | [Slides](files/lecture6_npg.pdf), policy gradient |
-| Apr 16                      |   Off-policy RL and intro to DQN. |
-| Apr 18                      |   DQN continued. Actor-critic methods. |
-| Apr 23                      |   Search and model based methods. MCTS and UC Trees. |
-| Apr 25                      |   Model-based planning and trajectory optimization in robotics. |
-| Apr 30                      |   System identification; learning dynamics models from data. |
-| May 2                       |   Learning from human demonstrations. |
-| May 7                       |   Combining trajectory optimization and neural nets, GPS. |
-| May 9                       |   Hierarchical RL. |
-| May 14                      |   Understanding AlphaGo and AlphaZero. |
-| May 16                      |   Sim2Real, transfer learning, and meta learning. |
-| May 21                      |   Guest lecture |
-| May 23                      |   Guest lecture |
-| May 28                      |   No class. |
-| May 30                      |   Guest lecture |
+| Mar 26                      |   Course overview | [Slides](files/lecture1_intro.pdf), Book Ch. 1 |
+| Mar 28                      |   Intro to Markov Decision Processes | [Slides](files/lecture2_mdp.pdf), Book Ch. 2,3 |
+| Apr 2                  	  |   Planning with a known model in the tabular case | [Slides](files/lecture3_policyiter.pdf), Book Ch. 4 |
+| Apr 4                  	  |   Policy Iteration (contd) and MuJoCo setup | [Slides](files/lecture4_policyiter.pdf), Book Ch. 4 |
+| Apr 9                       |   Policy gradient methods - I | [Slides](files/lecture5_reinforce.pdf), policy gradient |
+| Apr 11                      |   Policy gradient methods - II | [Slides](files/lecture6_npg.pdf), policy gradient |
+| Apr 16                      |   Off-policy learning - I |
+| Apr 18                      |   Off-policy learning - II |
+| Apr 23                      |   Imitation learning |
+| Apr 25                      |   MCTS and UC Trees |       
+| Apr 30                      |   Trajectory Optimization |
+| May 2                       |   System Identification |
+| May 7                       |   Guest lecture - Prof. Emanuel Todorov |
+| May 9                       |   Guest lecture - Dr. Igor Mordatch |
+| May 14                      |   Guest lecture |
+| May 16                      |   Learning from human demonstrations |
+| May 21                      |   Combining trajectory optimization and neural nets, GPS |
+| May 23                      |   Case study: AlphaGo and AlphaZero |
+| May 28                      |   Hierarchical RL |
+| May 30                      |   Transfer learning, meta learning |
