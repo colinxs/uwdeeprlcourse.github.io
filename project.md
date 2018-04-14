@@ -16,7 +16,7 @@ It is very important to discuss project ideas from an early stage with the instr
 
 | Date                     |                                                       |
 |--------------------------| ------------------------------------------------------|
-| Apr 16th                 |   Project proposal (2 pages) |
+| Apr 18th                 |   Project proposal (2 pages) |
 | May 7th                  |   Milestone (4 pages) |
 | Jun 6th                  |   Final report (8 pages max) |
 | Jun 6th                  |   Project poster presentations |
