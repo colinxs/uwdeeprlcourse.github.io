@@ -22,12 +22,12 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | Apr 23                      |   Imitation learning |
 | Apr 25                      |   MCTS and UC Trees |       
 | Apr 30                      |   Trajectory Optimization |
-| May 2                       |   System Identification |
+| May 2                       |   Combining trajectory optimization and neural nets, GPS |
 | May 7                       |   Guest lecture - Prof. Emanuel Todorov |
 | May 9                       |   Guest lecture - Dr. Igor Mordatch |
 | May 14                      |   Guest lecture |
 | May 16                      |   Learning from human demonstrations |
-| May 21                      |   Combining trajectory optimization and neural nets, GPS |
+| May 21                      |   Transfer learning, meta learning |
 | May 23                      |   Case study: AlphaGo and AlphaZero |
 | May 28                      |   Hierarchical RL |
-| May 30                      |   Transfer learning, meta learning |
+| May 30                      |   Energy based learning and concepts |
