@@ -24,6 +24,10 @@ description: ""
 9. [Mnih et al. Asynchronous Methods for Deep Reinforcement Learning, 2016](https://arxiv.org/abs/1602.01783)
 10. [Toussaint, Gradient descent lecture notes, 2012](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf)**
 
+### MCTS
+1. [A Survey of MCTS Methods](files/reading/mcts-survey-master.pdf)
+2. [Bandit Based Monte-Carlo Planning](files/reading/bandit_mc.pdf)
+
 ## Related Courses
 1. [DeepRL course at UC Berkeley, Fall 2017](http://rll.berkeley.edu/deeprlcourse/)
 2. [DeepRL course at CMU, Spring 2017](https://katefvision.github.io/)
