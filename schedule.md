@@ -21,7 +21,7 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | Apr 18                      |   Off-policy learning - II |
 | Apr 23                      |   Imitation learning |
 | Apr 25                      |   MCTS and UC Trees |  [Slides](files/MCTS.pdf) |     
-| Apr 30                      |   Trajectory Optimization |
+| Apr 30                      |   Trajectory Optimization | [Slides](files/trajopt.pdf) |
 | May 2                       |   Combining trajectory optimization and neural nets, GPS |
 | May 7                       |   Guest lecture - Prof. Emanuel Todorov |
 | May 9                       |   Guest lecture - Dr. Igor Mordatch |
