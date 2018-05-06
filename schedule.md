@@ -23,11 +23,11 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | Apr 25                        | MCTS and UC Trees                               | [Slides](files/MCTS.pdf)                                |
 | Apr 30                        | Trajectory Optimization                         | [Slides](files/trajopt.pdf)                             |
 | May 2                         | Combining Trajectories and Policies             | [Slides](files/gps.pdf)                                 |
-| May 7                         | Guest lecture - Prof. Emanuel Todorov           |
-| May 9                         | Guest lecture - Dr. Igor Mordatch               |
-| May 14                        | Guest lecture                                   |
-| May 16                        | Learning from human demonstrations              |
-| May 21                        | Transfer learning, meta learning                |
-| May 23                        | Case study: AlphaGo and AlphaZero               |
+| May 7                         | Guest lecture - Prof. Emanuel Todorov (UW)      |
+| May 9                         | Guest lecture - Dr. Igor Mordatch (OpenAI)      |
+| May 14                        | Guest lecture - Dr. Vikash Kumar (Google Brain) |
+| May 16                        | Transfer learning, meta learning                |
+| May 21                        | General duality between control and inference   |
+| May 23                        | Multi-task learning and compositionality        |
 | May 28                        | Hierarchical RL                                 |
 | May 30                        | Energy based learning and concepts              |
