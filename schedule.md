@@ -23,7 +23,7 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | Apr 25                        | MCTS and UC Trees                               | [Slides](files/MCTS.pdf)                                |
 | Apr 30                        | Trajectory Optimization                         | [Slides](files/trajopt.pdf)                             |
 | May 2                         | Combining Trajectories and Policies             | [Slides](files/gps.pdf)                                 |
-| May 7                         | Guest lecture - Prof. Emanuel Todorov (UW)      |
+| May 7                         | Guest lecture - Prof. Emanuel Todorov (UW)      | [Slides](files/emo.pdf)                                 |
 | May 9                         | Guest lecture - Dr. Igor Mordatch (OpenAI)      |
 | May 14                        | Guest lecture - Dr. Vikash Kumar (Google Brain) |
 | May 16                        | Transfer learning, meta learning                |
