@@ -26,8 +26,8 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | May 7                         | Guest lecture - Prof. Emanuel Todorov (UW)      | [Slides](files/emo.pdf)                                 |
 | May 9                         | Guest lecture - Dr. Igor Mordatch (OpenAI)      |
 | May 14                        | Guest lecture - Dr. Vikash Kumar (Google Brain) |
-| May 16                        | Transfer learning, meta learning                |
-| May 21                        | General duality between control and inference   |
-| May 23                        | Multi-task learning and compositionality        |
+| May 16                        | *No class*                                      |
+| May 21                        | Learning to learn, meta learning                |
+| May 23                        | General duality between control & inference, compositionality in LDMPs |
 | May 28                        | Hierarchical RL                                 |
 | May 30                        | Energy based learning and concepts              |
