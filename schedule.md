@@ -29,5 +29,5 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | May 16                        | *No class*                                      |
 | May 21                        | Learning to learn, meta learning                |
 | May 23                        | General duality between control & inference, compositionality in LDMPs |
-| May 28                        | Hierarchical RL                                 |
-| May 30                        | Energy based learning and concepts              |
+| May 28                        | *No class*                                      |
+| May 30                        | Hierarchical RL                                 | [Slides](files/hrl.pdf)
