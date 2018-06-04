@@ -20,3 +20,5 @@ It is very important to discuss project ideas from an early stage with the instr
 | May 7th                  |   Milestone (4 pages) |
 | Jun 6th                  |   Final report (8 pages max) |
 | Jun 5th                  |   Project poster presentations |
+
+Posters should be 40 by 32 inches and can be landscape or portrait.
