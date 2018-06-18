@@ -25,7 +25,7 @@ The schedule is tentative and subject to change. We will have guest lectures and
 | May 2                         | Combining Trajectories and Policies             | [Slides](files/gps.pdf)                                 |
 | May 7                         | Guest lecture - Prof. Emanuel Todorov (UW)      | [Slides](files/emo.pdf)                                 |
 | May 9                         | Guest lecture - Dr. Igor Mordatch (OpenAI)      |
-| May 14                        | Guest lecture - Dr. Vikash Kumar (Google Brain) |
+| May 14                        | Guest lecture - Dr. Vikash Kumar (Google Brain) | [Slides](files/vikash.pdf)                              |
 | May 16                        | *No class*                                      |
 | May 21                        | Learning to learn, meta learning                |
 | May 23                        | General duality between control & inference, compositionality in LDMPs |
